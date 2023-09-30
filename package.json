@@ -2,5 +2,9 @@
   "name": "AuctionCraft",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
